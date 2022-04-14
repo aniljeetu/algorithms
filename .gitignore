@@ -30,3 +30,5 @@ build
 
 # Ignore Eclipse specific file for local devsetup
 .settings/
+
+bin/
