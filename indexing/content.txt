@@ -1,0 +1,6 @@
+ariya,potato,tomato,cucumber
+vinisha,tomato,grapes,strawberry
+avika,potato,apple
+nikita,apple,grapes,mango
+keysha,mango,melon,cucumber
+shubi,strawberry,cucumber
