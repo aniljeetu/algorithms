@@ -1,0 +1,2 @@
+it was the best of times
+there was dos and turbo c++, and we did all bare-metal

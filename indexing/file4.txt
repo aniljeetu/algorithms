@@ -1,0 +1,2 @@
+it was the age of foolishness
+plumbing small pieces of code together to work over the wire

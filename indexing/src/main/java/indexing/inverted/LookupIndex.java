@@ -47,7 +47,7 @@ public class LookupIndex {
 				}
 			}
 			System.out.println("Indexes created.");
-			
+
 			Scanner scanner = new Scanner(System.in);
 			String input;
 			while(!(input = scanner.nextLine()).isBlank()) {

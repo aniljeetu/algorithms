@@ -1,0 +1,2 @@
+it was the age of wisdom
+working very close to systems, keeping track of memory, pointers, etc
